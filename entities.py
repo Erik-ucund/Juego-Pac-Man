@@ -2,6 +2,8 @@ import random
 import config
 import map  # Importa el módulo map completo
 
+#Andres Murcia:
+
 class Entity:
     def __init__(self, row, col):
         self.row = row
