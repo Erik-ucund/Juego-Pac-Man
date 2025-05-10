@@ -1,2 +1,3 @@
-README Andres Sebastian Murcia Corredor
-Erik Santiago Ortiz Castañeda
+README 
+Cambios hechos por:
+Andres Sebastian Murcia Corredor
